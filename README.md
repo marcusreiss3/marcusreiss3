@@ -9,9 +9,9 @@
     <p>Idade: 20 anos</p>
     <p>Programador em aprendizado</p>
     
-    <h2>Contato</h2>
+    <h1>Contato</h1>
     <p>Email: marcusreis417@gmail.com</p>
-    <p>GitHub: <a href="#">marcusreiss3</a></p>
+    <p>GitHub: marcusreiss3</p>
 </body>
 </html>
 
