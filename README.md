@@ -9,16 +9,10 @@
     <h1>Marcus Vinícius Reis Albino</h1>
     <p>Idade: 20 anos</p>
     <p>Programador em aprendizado</p>
-    <h2>Projetos</h2>
-    <ul>
-        <li><a href="#">Projeto 1</a></li>
-        <li><a href="#">Projeto 2</a></li>
-        <li><a href="#">Projeto 3</a></li>
-    </ul>
+    
     <h2>Contato</h2>
-    <p>Email: seuemail@example.com</p>
-    <p>LinkedIn: <a href="#">Perfil LinkedIn</a></p>
-    <p>GitHub: <a href="#">Perfil GitHub</a></p>
+    <p>Email: marcusreis417@gmail.com</p>
+    <p>GitHub: <a href="#">marcusreiss3</a></p>
 </body>
 </html>
 
