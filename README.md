@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Marcus Vinícius Reis Albino</h1>
-    <p>Age: 20 anos</p>    
+    <p>Age: 20 years</p>    
     <h1>Contact</h1>
     <p>Email: marcusreis417@gmail.com</p>
     <p>GitHub: marcusreiss3</p>
