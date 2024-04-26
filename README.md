@@ -11,8 +11,5 @@
     <p>Email: marcusreis417@gmail.com</p>
     <p>GitHub: marcusreiss3</p>
 </body>
-
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penetraz&theme=dark&langs_count=20"/>
-
 </html>
 
