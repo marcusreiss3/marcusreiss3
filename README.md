@@ -10,6 +10,10 @@
     <h1>Contact</h1>
     <p>Email: marcusreis417@gmail.com</p>
     <p>GitHub: marcusreiss3</p>
+
+    <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penetraz&theme=dark&langs_count=20"/>
+    </div>
 </body>
 </html>
 
