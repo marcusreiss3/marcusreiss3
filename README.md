@@ -1,11 +1,13 @@
-## Marcus Vinícius Reis Albino
-Age: 20 years    
+# Marcus Vinícius Reis Albino
 
-## Contact
-Email: marcusreis417@gmail.com
+[![Email](https://img.shields.io/badge/Email-marcusreis417@gmail.com-blue?style=flat-square&logo=gmail)](mailto:marcusreis417@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/marcusreiss3?label=follow&style=social)](https://github.com/marcusreiss3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcus%20Vinícius-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/marcus-reis-92841b242/)
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusreiss3&theme=dark&langs_count=20"/>
-</div>
+### Sobre Mim
+- 🎓 Estudante de Ciência da Computação
+- 💻 Interessado em Desenvolvimento e Tecnologia
+- 🌱 Atualmente focando no backend.
 
-
+### Estatísticas
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusreiss3&theme=dark&langs_count=8)
