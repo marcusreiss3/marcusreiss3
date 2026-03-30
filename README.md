@@ -7,6 +7,3 @@
 ### Sobre Mim
 - 🎓 Estudante de Ciência da Computação
 - 💻 Interessado em Desenvolvimento e Tecnologia
-
-### Estatísticas
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusreiss3&theme=dark&langs_count=8)
