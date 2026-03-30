@@ -7,7 +7,6 @@
 ### Sobre Mim
 - 🎓 Estudante de Ciência da Computação
 - 💻 Interessado em Desenvolvimento e Tecnologia
-- 🚀 Focado no desenvolvimento backend, com ênfase em frameworks como **Spring Boot** para desenvolvimento de APIs RESTful
 
 ### Estatísticas
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusreiss3&theme=dark&langs_count=8)
